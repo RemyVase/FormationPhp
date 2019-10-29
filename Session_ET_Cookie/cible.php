@@ -10,4 +10,4 @@
 
 <p>Vous aimez les frites : <?php echo $_POST['frites']; ?></p>
 
-<p>Si tu veux changer de prénom, <a href="formulaire.php">clique ici</a> Pour revenir à l page du formulaire.php.</p>
+<p>Si tu veux changer de prénom, <a href="../Get_ET_POST/formulaire.php">clique ici</a> Pour revenir à l page du formulaire.php.</p>

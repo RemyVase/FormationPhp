@@ -3,7 +3,7 @@
     Veuillez taper votre prénom : :
 </p>
 
-<form action="cible.php" method = "post">
+<form action="../Session_ET_Cookie/cible.php" method = "post">
     <p>
         <input type=text" name="prenom" /><br>
 
